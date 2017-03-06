@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: nodejsdemoapp-shweta
+  host: nodejsdemoapp-shweta
+  disk_quota: 1024M
